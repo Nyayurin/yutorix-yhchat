@@ -3,7 +3,7 @@ kotlin = "2.0.20"
 agp = "8.6.1"
 atomicfu = "0.25.0"
 ktor = "3.0.0-rc-1"
-yutori = "c571ab1af5aa13c12d7a5e0b3d6ab6c0ce6d1f1b"
+yutori = "47464086ee5bb79548ec9a73a98b58674e626dbd"
 
 [libraries]
 yutori = { module = "cn.yurin.yutori:yutori", version.ref = "yutori" }
